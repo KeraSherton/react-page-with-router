@@ -1,0 +1,22 @@
+.products {
+  text-align: left;
+}
+.products h2 {
+  margin: 7% 5% 3% 0%;
+}
+
+.products ul {
+  list-style: none;
+}
+
+.products li {
+  margin-bottom: 5%;
+}
+
+.products a {
+  text-decoration: none;
+  color: black;
+}
+.products a:hover {
+  color: red;
+}

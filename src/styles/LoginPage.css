@@ -1,0 +1,22 @@
+label{
+    margin: 1%;
+}
+.fancy_input{
+    border-radius: 7px;
+    border: none;
+    background-color: bisque;
+    margin: 1%;
+}
+.login_button{
+    border: black solid 3px;
+    border-radius: 7px;
+    padding: 5px 1%;
+    margin: 3%;
+    cursor: pointer; 
+    font-weight: bold;
+}
+.login_button:hover {
+    color: yellow;
+    background-color: black;
+  }
+  

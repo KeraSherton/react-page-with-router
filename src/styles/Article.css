@@ -1,0 +1,15 @@
+.article_box {
+  margin: 10px;
+  margin-top: 40px;
+}
+.article_title {
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+.article_author {
+  font-size: 12px;
+}
+.article_text {
+  font-size: 15px;
+  display: block;
+}
