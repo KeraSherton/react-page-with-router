@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ea82cdb9.chunk.css",
+    "main.js": "/static/js/main.9f83f52c.chunk.js",
+    "main.js.map": "/static/js/main.9f83f52c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aa3321d8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aa3321d8.js.map",
+    "static/js/2.2e5903e2.chunk.js": "/static/js/2.2e5903e2.chunk.js",
+    "static/js/2.2e5903e2.chunk.js.map": "/static/js/2.2e5903e2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ce366cdc52741d585bd9717c4cdcfcdb.js": "/precache-manifest.ce366cdc52741d585bd9717c4cdcfcdb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ea82cdb9.chunk.css.map": "/static/css/main.ea82cdb9.chunk.css.map",
+    "static/js/2.2e5903e2.chunk.js.LICENSE": "/static/js/2.2e5903e2.chunk.js.LICENSE",
+    "static/media/bird.jpg": "/static/media/bird.dc3ab31a.jpg",
+    "static/media/bridge.jpg": "/static/media/bridge.8d404906.jpg",
+    "static/media/cm.jpg": "/static/media/cm.1c66e0d4.jpg",
+    "static/media/night.jpg": "/static/media/night.3c976dbb.jpg",
+    "static/media/obi-wan.jpg": "/static/media/obi-wan.841d7bce.jpg",
+    "static/media/stairs.jpg": "/static/media/stairs.9d21066b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa3321d8.js",
+    "static/js/2.2e5903e2.chunk.js",
+    "static/css/main.ea82cdb9.chunk.css",
+    "static/js/main.9f83f52c.chunk.js"
+  ]
+}
